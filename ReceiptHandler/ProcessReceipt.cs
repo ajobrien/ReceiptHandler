@@ -21,7 +21,7 @@ namespace ReceiptHandler
     {
 
         // Replace <Subscription Key> with your valid subscription key.
-        private const string SubscriptionKey = "5d6cc7b8372b4300b829b9856b7d1c41";
+        private const string SubscriptionKey = "<OCR Subscription Key";
 
         // You must use the same Azure region in your REST API method as you used to
         // get your subscription keys. For example, if you got your subscription keys
